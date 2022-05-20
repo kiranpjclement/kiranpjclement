@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kiranpjclement, residing in UK.
-- 👀 I’m interested in  ML and AI
+- 👀 I’m interested in Python Programming,  ML and AI
 - 🌱 I’m currently practicing ML and AI projects in Kaggle and other sourses (SkLearn and Keras).
 - 🌱 Basically i am an Automotive Body Engineer worked for many iconic products and companies Bentley Motors, Jaguar I-Pace,LandRover-Discovery and T-Tiago.
 - 💞️ I’m looking to collaborate more with AI and ML to enhace my interest and knowlege.
